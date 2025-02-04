@@ -72,4 +72,6 @@ Para ejecutarlas en modo headless:
 
 ```sh
 npx cypress run
+
+
 ```
